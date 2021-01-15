@@ -3,7 +3,7 @@ Ce TP consiste à répondre aux questions contenues dans le fichier  [walmart_st
 Les questions traitées dans ce projet sont les question 5 à 12, Le reste étant déjà vu en cours. 
 
 ## Instructions
-:arrow_forward: Télecharger le fichier walmart_stock.py dans le repertoire script.  
+:arrow_forward: Télecharger le fichier walmart_script.py dans le repertoire script.  
 
 :arrow_forward: Télecharger les **données** disponible dans le repertoire Data.
 
@@ -11,6 +11,6 @@ Les questions traitées dans ce projet sont les question 5 à 12, Le reste étan
 
 :arrow_forward:Ecrire l'instruction: 
 
-     "spark-submit walmart_stock.py"
+     "spark-submit walmart_script.py"
 
 :arrow_forward: Les differentes réponses s'afficheront progressivement.
